@@ -6,7 +6,7 @@
 #include "ButtonPanel.h"
 
 ButtonPanel::ButtonPanel() {
-    button1 = new QPushButton("Configure");
+    button1 = new QPushButton("Configuration");
     button2 = new QPushButton("Connect");
     button3 = new QPushButton("Disconnect");
 
